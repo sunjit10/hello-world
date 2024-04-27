@@ -3,3 +3,5 @@ Red
 White
 Dark Blue
 Yellow
+Pink
+Green
